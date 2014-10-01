@@ -15,6 +15,7 @@
   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
   ga('create', 'UA-41553675-1', 'edgan8.github.io');
+  ga('require', 'displayfeatures');
   ga('send', 'pageview');
 
     </script>
@@ -35,14 +36,24 @@
       <section>
 
 <h3>About</h3>
-<p>I am a recent graduate of Harvard College and will be working as a
-software engineer at Facebook starting in Fall 2013. At Harvard, I
-worked with 
+<p>I am a software engineer at Facebook working in Data & Targeting. 
+At Harvard, I worked with 
 <a href="http://www.eecs.harvard.edu/~greg/">Greg Morrisett</a>'s
 research group on program verification and type system design.
 My <a href="assets/gan-web-resume.pdf">Resume</a>.</p>
 
 <h3>Projects</h3>
+  <h4>Dataswarm</h4>
+  <p>
+  At Facebook in Data Infrastructure, I built the execution engine for
+  running
+  <a href="https://www.youtube.com/watch?v=M0VCbhfQ3HQ">
+  Dataswarm
+  </a>
+  ETL pipelines over historical data, optimized for business analysts doing 
+  batch updates and exploratory analysis.
+  </p>
+
   <h4>Clamp</h4>
   <p>
 
@@ -51,7 +62,11 @@ My <a href="assets/gan-web-resume.pdf">Resume</a>.</p>
   stateful resources by integrating Type Classes with Substructural
   Types. I have also implemented a prototype <a
     href="https://github.com/edgan8/clampcheck">type checker</a> for
-  Clamp in Haskell.
+  Clamp in Haskell. A 
+  <a href="assets/clamp-eptcs.pdf"> 
+  paper 
+  </a>
+  on this was presented at LINEARITY 2014.
 
   </p>
   
@@ -88,8 +103,8 @@ My <a href="assets/gan-web-resume.pdf">Resume</a>.</p>
   <h4>Lossy Grammar Compression:</h4>
   <p>
 
-  A fun class project on trying to introduce lossiness into the very
-  cool <a
+  A fun project on trying to introduce lossiness into the
+  <a
     href="http://en.wikipedia.org/wiki/Sequitur_algorithm">Sequitur
     Algorithm</a>. Here is a <a href="assets/grmr-paper.pdf">writeup</a>
   and our <a href="https://github.com/mxw/grmr">code</a>
