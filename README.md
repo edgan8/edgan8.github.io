@@ -1,4 +1,1 @@
-edgan8.github.io
-================
-
-Personal Site
+Personal site for Edward Gan
