@@ -36,6 +36,10 @@
   }
 
   .page-link {
+    border-radius: 5px;
+    padding: 5px;
+    border: 2px solid rgb(237, 160, 66);
+
     color: $text-color;
     line-height: $base-line-height;
 
