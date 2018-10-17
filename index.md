@@ -6,8 +6,8 @@ layout: home
 title: About
 permalink: /
 ---
-I am a third year Computer Science PhD student doing data systems research at Stanford University, advised by [Peter Bailis](http://www.bailis.org/).
-I am broadly interested in developing efficient and usable statistical methods for large datasets, bridging the gap between machine learning and user-facing analytics. 
-My recent projects include algorithms for unsupervised classification and method-of-moments quantile estimators motivated by the [Macrobase](http://macrobase.stanford.edu/) data analytics system.
+I am a fourth year Computer Science PhD student doing systems and machine learning research at Stanford University, advised by [Peter Bailis](http://www.bailis.org/).
+I am broadly interested in scaling out statistical methods to large datasets while preserving reliability guarantees.
+My recent projects include algorithms for nonparametric outlier classification and percentile estimation.
 
-Prior to Stanford, I studied Computer Science and Mathematics at Harvard, working with [Greg Morrisett](http://www.cs.cornell.edu/~jgm/) on type systems for safe programming, and spent two years at Facebook in Data Infra and Ads Targeting. My [Industry Resume](/assets/resumeWeb.pdf).
+Prior to Stanford, I studied Computer Science and Mathematics at Harvard, working with [Greg Morrisett](http://www.cs.cornell.edu/~jgm/) on type systems for safe programming, and spent two years at Facebook in Data Infrastructure and Ads Targeting. My [Industry Resume](/assets/resumeWeb.pdf).
