@@ -6,8 +6,10 @@ layout: home
 title: About
 permalink: /
 ---
-I am a fourth year Computer Science PhD student doing systems and machine learning research at Stanford University, advised by [Peter Bailis](http://www.bailis.org/).
-I am broadly interested in developing tools for scalable machine learning while preserving reliability guarantees.
-My recent projects include algorithms for nonparametric outlier classification and percentile estimation.
+I am a fourth year Computer Science PhD at Stanford University, advised by [Peter Bailis](http://www.bailis.org/).
+My research is in developing scalable techniques for data analytics and machine learning while preserving reliability guarantees.
+Recent projects include work on approximate query processing using sketches, anomaly detection, and transfer learning across data sources.
 
-Prior to Stanford, I studied Computer Science and Mathematics at Harvard, working with [Greg Morrisett](http://www.cs.cornell.edu/~jgm/) on type systems for safe programming, and spent two years at Facebook in Data Infrastructure and Ads Targeting. [Resume](/assets/resumeWeb.pdf).
+Prior to Stanford, I studied Computer Science and Mathematics at Harvard, 
+working with [Greg Morrisett](http://www.cs.cornell.edu/~jgm/) on type systems for safe programming, 
+and spent two years at Facebook in Data Infrastructure and Ads Targeting. [Resume](/assets/resumeWeb.pdf).

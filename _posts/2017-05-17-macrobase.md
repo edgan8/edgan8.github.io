@@ -9,3 +9,4 @@ ref-journal: SIGMOD
 ref-doi: 10.1145/3035918.3035928
 ref-url: /assets/papers/macrobase-paper.pdf
 ---
+[[Extended Journal]](/assets/papers/macrobasetods-paper.pdf)
