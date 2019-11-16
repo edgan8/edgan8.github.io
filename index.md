@@ -6,10 +6,10 @@ layout: home
 title: About
 permalink: /
 ---
-I am a fourth year Computer Science PhD at Stanford University, advised by [Peter Bailis](http://www.bailis.org/).
-My research is in developing scalable techniques for data analytics and machine learning while preserving reliability guarantees.
-Recent projects include work on approximate query processing using sketches, anomaly detection, and transfer learning across data sources.
+I am a fifth year Computer Science PhD at Stanford University, advised by [Peter Bailis](http://www.bailis.org/).
+My research is in developing scalable techniques for data analytics and machine learning, often using approximation algorithms.
+Recent projects include work on statistics estimation using sketches, anomaly detection, and automatic hyperparameter tuning.
 
-Prior to Stanford, I studied Computer Science and Mathematics at Harvard, 
-working with [Greg Morrisett](http://www.cs.cornell.edu/~jgm/) on type systems for safe programming, 
+Prior to Stanford, I studied at Harvard, 
+working with [Greg Morrisett](http://www.cs.cornell.edu/~jgm/) on programming language type systems, 
 and spent two years at Facebook in Data Infrastructure and Ads Targeting. [Resume](/assets/resumeWeb.pdf).
