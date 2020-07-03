@@ -8,3 +8,4 @@ ref-year: 2020
 ref-journal: PhD Thesis
 ref-url: https://purl.stanford.edu/hv931ph6832
 ---
+[[Slides]](/assets/papers/thesis-slides.pdf)
