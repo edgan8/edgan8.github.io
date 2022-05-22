@@ -6,7 +6,7 @@
 title: Edward Gan
 email: edgan8@gmail.com
 description: Software Engineer at Databricks
-sub_description: Data + ML Systems.
+sub_description: Data + ML
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "edgan8.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb

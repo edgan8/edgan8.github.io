@@ -6,9 +6,4 @@ layout: home
 title: About
 permalink: /
 ---
-I am currently a Software Engineer at Databricks working on machine learning
-infrastructure. 
-
-I recently graduated with a PhD from Stanford on [Data summaries for scalable, high-cardinality analytics](https://purl.stanford.edu/hv931ph6832)
-advised by [Peter Bailis](http://www.bailis.org/), and I am broadly interested in
-scalable algorithms for data analytics and machine learning. [Resume](/assets/resumeWeb.pdf).
+I am a software engineer at Databricks working on the machine learning and data monitoring platform. [Resume](/assets/resumeWeb.pdf). Previously I completed a PhD at Stanford on [Data summaries for scalable, high-cardinality analytics](https://purl.stanford.edu/hv931ph6832) advised by [Peter Bailis](http://www.bailis.org/).
