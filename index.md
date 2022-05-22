@@ -6,4 +6,4 @@ layout: home
 title: About
 permalink: /
 ---
-I am a software engineer at Databricks working on the machine learning and data monitoring platform. [Resume](/assets/resumeWeb.pdf). Previously I completed a PhD at Stanford on [Data summaries for scalable, high-cardinality analytics](https://purl.stanford.edu/hv931ph6832) advised by [Peter Bailis](http://www.bailis.org/).
+I am a software engineer at Databricks working on the machine learning and data monitoring platform. Previously I completed a PhD at Stanford on [Data summaries for scalable, high-cardinality analytics](https://purl.stanford.edu/hv931ph6832) advised by [Peter Bailis](http://www.bailis.org/).
