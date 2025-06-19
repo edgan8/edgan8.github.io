@@ -6,4 +6,7 @@ layout: home
 title: About
 permalink: /
 ---
-I am a software engineer at Waymo working on model evaluation and data scaling. Previously I worked on ML workflow products at Databricks and completed a PhD at Stanford on [Data summaries for scalable, high-cardinality analytics](https://purl.stanford.edu/hv931ph6832) advised by [Peter Bailis](http://www.bailis.org/).
+I'm currently a software engineer at Scale AI working on model post-training and evals infra, 
+including [Precog](https://scale.com/blog/precog) and the SEAL leaderboards. Previously at Waymo and Databricks. 
+
+I graduated from Stanford with a PhD in Computer Science on [Data summaries for scalable, high-cardinality analytics](https://purl.stanford.edu/hv931ph6832) advised by Peter Bailis.

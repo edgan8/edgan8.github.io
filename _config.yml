@@ -5,8 +5,8 @@
 # in the templates via {{ site.myvariable }}.
 title: Edward Gan
 email: edgan8@gmail.com
-description: Software Engineer at Waymo
-sub_description: Data + ML
+description: Software Engineer at Scale AI
+sub_description: 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "edgan8.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
